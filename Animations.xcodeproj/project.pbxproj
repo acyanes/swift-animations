@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		930C94582C65E76600CED16A /* RotateView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 930C94572C65E76600CED16A /* RotateView.swift */; };
 		93A947072C648A3B006829B0 /* AnimationsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93A947062C648A3B006829B0 /* AnimationsApp.swift */; };
 		93A947092C648A3B006829B0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93A947082C648A3B006829B0 /* ContentView.swift */; };
 		93A9470B2C648A3C006829B0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 93A9470A2C648A3C006829B0 /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		930C94572C65E76600CED16A /* RotateView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotateView.swift; sourceTree = "<group>"; };
 		93A947032C648A3B006829B0 /* Animations.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Animations.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		93A947062C648A3B006829B0 /* AnimationsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationsApp.swift; sourceTree = "<group>"; };
 		93A947082C648A3B006829B0 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -51,6 +53,7 @@
 		93A947052C648A3B006829B0 /* Animations */ = {
 			isa = PBXGroup;
 			children = (
+				930C94572C65E76600CED16A /* RotateView.swift */,
 				93A947062C648A3B006829B0 /* AnimationsApp.swift */,
 				93A947082C648A3B006829B0 /* ContentView.swift */,
 				93A9470A2C648A3C006829B0 /* Assets.xcassets */,
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				930C94582C65E76600CED16A /* RotateView.swift in Sources */,
 				93A947092C648A3B006829B0 /* ContentView.swift in Sources */,
 				93A947072C648A3B006829B0 /* AnimationsApp.swift in Sources */,
 			);
